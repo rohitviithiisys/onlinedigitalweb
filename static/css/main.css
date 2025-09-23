@@ -2141,8 +2141,9 @@ p {
 }
 
 .blogs {
-    margin-bottom: 181px;
-    margin-top: 368px
+    margin-bottom: 0px;
+    margin-top: 160px;
+    padding: 100px 0px 300px 0px;
 }
 
 @media(max-width: 1400px) {
