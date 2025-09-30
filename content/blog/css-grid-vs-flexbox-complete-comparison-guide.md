@@ -18,7 +18,7 @@ Keyword:
 image: /images/uploads/CSS Grid vs Flexbox comparison.svg
 ---
 
-*Published by Rohit Saini | Senior UI UX Designer | rohitsaini.co.in*
+*Published by Online Digital Web | Senior UI UX Designer | rohitsaini.co.in*
 
 When it comes to modern CSS layout techniques, two powerful tools stand out: **CSS Grid** and **Flexbox**. As a senior UI UX designer with years of experience in responsive web design, I've seen developers struggle with choosing the right layout method for their projects. This comprehensive guide will help you understand when to use CSS Grid vs Flexbox, complete with practical examples and real-world applications.
 
@@ -423,12 +423,12 @@ Remember, there's no one-size-fits-all solution. The best layout method depends 
 
 ## About the Author
 
-**Rohit Saini** is a Senior UI UX Designer specializing in responsive web design and modern CSS techniques. With extensive experience in frontend development and professional website design services across India, Rohit helps businesses create exceptional digital experiences.
+**Online Digital Web** is a Senior UI UX Designer specializing in responsive web design and modern CSS techniques. With extensive experience in frontend development and professional website design services across India, Rohit helps businesses create exceptional digital experiences.
 
 **Connect with Rohit:**
 - Website: [rohitsaini.co.in](https://rohitsaini.co.in)
-- Portfolio: [View Design Projects](https://rohitsaini.co.in/portfolio)
-- Services: [Web Design Services India](https://rohitsaini.co.in/services)
+- Portfolio: [View Design Projects](https://onlinedigitalweb.com/portfolio)
+- Services: [Web Design Services India](https://onlinedigitalweb.com/services)
 
 *Need help with your next web project? Get in touch for professional UI UX design and development services.*
 

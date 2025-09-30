@@ -19,7 +19,7 @@ image: /images/uploads/Complete-Guide-to-Creating-Website-Wireframes-in-Figma.sv
 
 ---
 
-*Published by Rohit Saini - Senior UI UX Designer & Professional Website Designer India*
+*Published by Online Digital Web - Senior UI UX Designer & Professional Website Designer India*
 
 Website wireframing is the foundation of successful web design, and as a **senior front end developer India** with years of experience in **professional website design services India**, I'll guide you through the complete process of creating effective wireframes in Figma.
 
@@ -230,7 +230,7 @@ Ready to transform your website ideas into professional wireframes? As an experi
 
 
 
-**Contact:** [https://rohitsaini.co.in/contact/](https://rohitsaini.co.in/contact/)
+**Contact:** [https://onlinedigitalweb.com/contact/](https://onlinedigitalweb.com/contact/)
 
 ---
 

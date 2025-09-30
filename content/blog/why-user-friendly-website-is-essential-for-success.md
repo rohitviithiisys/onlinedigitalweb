@@ -46,6 +46,6 @@ A user-friendly website shows that your business is professional and reliable. W
 
 ## Wrap Up!
 
-A user-friendly website isn’t just nice to have—it’s essential for business success. By focusing on the user experience, you can improve engagement, boost your SEO rankings, and build lasting trust with your visitors. Whether you’re looking for web development or [professional website design services](https://rohitsaini.co.in/services/), investing in a user-friendly website is key to thriving in today’s digital landscape.
+A user-friendly website isn’t just nice to have—it’s essential for business success. By focusing on the user experience, you can improve engagement, boost your SEO rankings, and build lasting trust with your visitors. Whether you’re looking for web development or [professional website design services](https://onlinedigitalweb.com/services/), investing in a user-friendly website is key to thriving in today’s digital landscape.
 
-As an experienced [front-end developer](https://rohitsaini.co.in/), I’m here to help you create a website that drives success and helps your business stand out online.
+As an experienced [front-end developer](https://onlinedigitalweb.com/), I’m here to help you create a website that drives success and helps your business stand out online.

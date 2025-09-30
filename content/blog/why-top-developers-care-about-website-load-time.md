@@ -49,9 +49,9 @@ A faster website guarantees that you rank higher in search engine results, keep 
 ## #Wrap Up!!
 
 The load time of your site plays an important role in customer attitudes and actions towards your company. A fast page load time is critical to achieving a strong **first impression**, boost **SEO** and increase conversion rates. 
-Regardless of whether you want to find [best website design and development](https://rohitsaini.co.in/services/) freelancers in India or are rather willing to hire dedicated website designers in India, improving the time it takes to load your webpage is the most important thing.
+Regardless of whether you want to find [best website design and development](https://onlinedigitalweb.com/services/) freelancers in India or are rather willing to hire dedicated website designers in India, improving the time it takes to load your webpage is the most important thing.
 
-**I,Rohit Saini, a [senior front end developer](https://rohitsaini.co.in/)** with over 7 years of experience,provide **professional website design and development services** to make sure that your website works as it should. 
+**I,Online Digital Web, a [senior front end developer](https://onlinedigitalweb.com/)** with over 7 years of experience,provide **professional website design and development services** to make sure that your website works as it should. 
 Allow me to assist you in boosting the load speed of your website and in turn uplifting your business.
 
-Feel free to [contact me](https://rohitsaini.co.in/) 
+Feel free to [contact me](https://onlinedigitalweb.com/) 

@@ -7,48 +7,40 @@ keywords:
 
 # SEO Meta Information
 seo:
-  canonical: "https://rohitsaini.co.in/"
+  canonical: "https://onlinedigitalweb.com/"
   robots: "index, follow"
-  author: "Rohit Saini"
+  author: "Online Digital Web"
   language: "en-US"
   geo_region: "IN"
   geo_country: "India"
 
 # Open Graph Information
 og:
-  title: "Senior Front-End Developer & Professional Website Designer - Rohit Saini"
-  description: "Senior Front-End Developer with 7+ years of expertise offering professional website design services in India. Specializing in responsive, user-friendly websites for businesses."
-  image: "https://rohitsaini.co.in/images/website-design.jpeg"
-  url: "https://rohitsaini.co.in/"
+  title: "Online Digital Web"
+  description: "Online Digital Web"
+  image: "https://onlinedigitalweb.com/images/website-design.jpeg"
+  url: "https://onlinedigitalweb.com/"
   type: "website"
-  site_name: "Rohit Saini - Professional Website Designer Portfolio"
+  site_name: "Online Digital Web "
 
 # Twitter Card Information
 twitter:
   card: "summary_large_image"
-  title: "Senior Front-End Developer & Website Designer - Rohit Saini"
-  description: "Professional website design services in India by Senior Front-End Developer with 7+ years experience. Creating responsive, user-friendly websites."
-  image: "https://rohitsaini.co.in/images/website-design.jpeg"
+  title: "Online Digital Web"
+  description: "Online Digital Web"
+  image: "https://onlinedigitalweb.com/images/website-design.jpeg"
 
 # Schema.org Structured Data
 schema:
   type: "Person"
-  name: "Rohit Saini"
-  jobTitle: "Senior Front-End Developer & Professional Website Designer"
-  description: "Senior Front-End Developer with 7+ years of expertise in web development and UI/UX design"
+  name: "Online Digital Web"
+  jobTitle: "Online Digital Web"
+  description: "Online Digital Web"
   url: "https://rohitsaini.co.in"
-  image: "https://rohitsaini.co.in/images/website-design.jpeg"
+  image: "https://onlinedigitalweb.com/images/website-design.jpeg"
   location: "India"
   skills:
-    - "Senior Front-End Development"
-    - "Professional Website Design"
-    - "UI/UX Design"
-    - "JavaScript"
-    - "React.js"
-    - "WordPress Development"
-    - "HTML5 & CSS3"
-    - "Responsive Web Design"
-    - "E-commerce Development"
+    - "Online Digital Web"
 
 # Page Priority and Frequency
 sitemap:

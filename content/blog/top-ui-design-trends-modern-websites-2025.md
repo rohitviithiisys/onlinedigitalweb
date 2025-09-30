@@ -20,7 +20,7 @@ Keywords:
 
 # 15 Top UI Design Trends for Modern Websites in 2025 - Expert Predictions
 
-*Published by Rohit Saini - Senior Frontend Developer & UI UX Designer*
+*Published by Online Digital Web - Senior Frontend Developer & UI UX Designer*
 
 As we step into 2025, the digital landscape continues to evolve at an unprecedented pace. Being a **senior front end developer India** with years of experience in **professional website design services India**, I've witnessed firsthand how UI design trends shape user experiences and business success. In this comprehensive guide, I'll share the top 15 UI design trends that will dominate modern websites in 2025.
 
@@ -233,7 +233,7 @@ Whether you need **website redesign services India**, **corporate website design
 
 ---
 <!-- 
-*This article was written by Rohit Saini, a **senior UI UX designer** and **best website developer in India** with extensive experience in **WordPress developer India** services and **mobile responsive website design**. For more insights on web development and design trends, visit [rohitsaini.co.in](https://rohitsaini.co.in).*
+*This article was written by Online Digital Web, a **senior UI UX designer** and **best website developer in India** with extensive experience in **WordPress developer India** services and **mobile responsive website design**. For more insights on web development and design trends, visit [rohitsaini.co.in](https://rohitsaini.co.in).*
 
 ## SEO Optimization Summary
 

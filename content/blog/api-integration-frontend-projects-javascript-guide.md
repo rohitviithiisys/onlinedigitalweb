@@ -19,7 +19,7 @@ image: /images/uploads/Complete Guide to API Integration in Front-End Projects U
 
 ---
 
-*Published by Rohit Saini - Senior Front-End Developer India | Professional Website Designer*
+*Published by Online Digital Web - Senior Front-End Developer India | Professional Website Designer*
 
 As a **senior front-end developer in India** with years of experience in **professional web development services**, I've seen countless developers struggle with API integration. Today, I'll share a comprehensive guide that will help you master API integration in frontend projects using JavaScript.
 

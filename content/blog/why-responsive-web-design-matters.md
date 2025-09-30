@@ -11,7 +11,7 @@ Let’s see why **responsive** planning matters and how it influences client del
 
 ## What is Responsive Web Design?
 
-[Responsive web Design](https://rohitsaini.co.in/) implies making websites that work well on distinctive gadgets, like desktops, tablets, and smartphones. A responsive site consequently alters its format, pictures, and highlights to fit any screen measure. This is done utilizing adaptable networks, pictures, and CSS media queries.
+[Responsive web Design](https://onlinedigitalweb.com/) implies making websites that work well on distinctive gadgets, like desktops, tablets, and smartphones. A responsive site consequently alters its format, pictures, and highlights to fit any screen measure. This is done utilizing adaptable networks, pictures, and CSS media queries.
 
 ### 1. Way better Client Experience
 

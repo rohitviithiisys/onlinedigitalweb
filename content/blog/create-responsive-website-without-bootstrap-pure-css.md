@@ -17,7 +17,7 @@ Keyword:
 image: /images/uploads/How to Create Responsive Websites Without Bootstrap.svg
 ---
 
-*Published by Rohit Saini | Senior UI UX Designer | rohitsaini.co.in*
+*Published by Online Digital Web | Senior UI UX Designer | rohitsaini.co.in*
 
 In today's mobile-first world, creating responsive websites is no longer optional—it's essential. While Bootstrap has been a popular choice for many developers, building responsive websites with pure CSS offers greater control, better performance, and deeper understanding of responsive design principles. As a professional website designer in India, I'll guide you through creating stunning responsive websites using only CSS.
 

@@ -19,7 +19,7 @@ Keyword:
 image: /images/uploads/Color-Wheel for-UI-Design.svg
 ---
 
-*Published by Rohit Saini - Senior Front End Developer India | Professional Website Designer India*
+*Published by Online Digital Web - Senior Front End Developer India | Professional Website Designer India*
 
 As a **senior UI UX designer** with extensive experience in **web development services India**, I've witnessed firsthand how color psychology can make or break a user interface. Colors aren't just aesthetic choices—they're powerful psychological triggers that influence user behavior, emotions, and decision-making processes.
 

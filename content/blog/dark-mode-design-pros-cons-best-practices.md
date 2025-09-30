@@ -18,7 +18,7 @@ Keyword:
 image: /images/uploads/dark-mode-design-pros-cons-best-practices.svg
 ---
 
-*By Rohit Saini - Senior Front End Developer India | Professional Website Designer*
+*By Online Digital Web - Senior Front End Developer India | Professional Website Designer*
 
 Dark mode has revolutionized modern web design, becoming an essential feature for **professional website design services India**. As a **senior UI UX designer** with extensive experience in **web development services India**, I've witnessed firsthand how dark mode transforms user experiences and impacts business success.
 

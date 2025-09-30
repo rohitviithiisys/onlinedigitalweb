@@ -10,7 +10,7 @@ image: /images/uploads/group-1-4-.svg
 ---
 # How HTML, CSS, and JavaScript Work Together: Complete Guide for Web Development in 2025
 
-*Published by [Rohit Saini](https://rohitsaini.co.in/) - Senior Front-End Developer, India*
+*Published by [Online Digital Web](https://onlinedigitalweb.com/) - Senior Front-End Developer, India*
 
 Web development has evolved tremendously over the years, but the fundamental trio of **HTML, CSS, and JavaScript** remains the backbone of every modern website. As a senior front-end developer based in India, I've witnessed countless developers struggle to understand how these three technologies work in harmony. In this comprehensive guide, I'll break down exactly how HTML, CSS, and JavaScript collaborate to create the stunning, interactive websites we see today.
 
@@ -584,5 +584,5 @@ The key is to practice consistently, stay updated with modern techniques, and al
 4. **Build a portfolio** showcasing your integration skills
 5. **Connect with the developer community** in India and globally
 
-For more web development tutorials and insights, visit [rohitsaini.co.in](https://rohitsaini.co.in/) and follow my journey as a senior front-end developer sharing knowledge with the Indian developer community.
+For more web development tutorials and insights, visit [rohitsaini.co.in](https://onlinedigitalweb.com/) and follow my journey as a senior front-end developer sharing knowledge with the Indian developer community.
 

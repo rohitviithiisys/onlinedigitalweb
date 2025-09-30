@@ -18,7 +18,7 @@ Keyword:
 image: /images/uploads/Microinteractions.svg
 ---
 
-*Published by Rohit Saini - Senior Front End Developer India*
+*Published by Online Digital Web - Senior Front End Developer India*
 
 In today's competitive digital landscape, creating exceptional user experiences has become the cornerstone of successful web development. As a **senior UI UX designer** with extensive experience in **professional website design services India**, I've witnessed firsthand how microinteractions can transform ordinary websites into engaging, memorable experiences that keep users coming back.
 

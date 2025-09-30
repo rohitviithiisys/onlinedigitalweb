@@ -20,7 +20,7 @@ image: /images/uploads/Figma.svg
 ---
 
 
-*Published by Rohit Saini - Senior Frontend Developer & UI/UX Designer India*
+*Published by Online Digital Web - Senior Frontend Developer & UI/UX Designer India*
 
 
 ![Figma vs Adobe-XD](/images/uploads/Figma-vs-Adobe-XD.svg)

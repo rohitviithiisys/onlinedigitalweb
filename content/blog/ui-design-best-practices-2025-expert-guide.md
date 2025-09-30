@@ -21,7 +21,7 @@ image: /images/uploads/UI Design Best Practices 2025.svg
 ---
 
 
-*Published by [Rohit Saini](https://rohitsaini.co.in) - Senior UI UX Designer & Frontend Developer India*
+*Published by [Online Digital Web](https://rohitsaini.co.in) - Senior UI UX Designer & Frontend Developer India*
 
 The digital landscape continues to evolve at breakneck speed, and as we progress through 2025, user interface design has reached new heights of sophistication. As a **senior UI UX designer in India** with extensive experience in creating modern web interfaces, I've witnessed firsthand how design trends and user expectations have transformed. In this comprehensive guide, I'll share the most crucial UI design best practices that every **professional website designer** should implement to create exceptional user experiences.
 

@@ -18,7 +18,7 @@ Keyword:
 image: /images/uploads/FEATURED.svg
 ---
 
-*Published by Rohit Saini - Senior Front End Developer India*
+*Published by Online Digital Web - Senior Front End Developer India*
 
 As a **professional website designer India** with years of experience in **web development services India**, I've seen countless developers struggle with version control. Git is the backbone of modern development workflows, and mastering these essential commands will transform your productivity as a **frontend developer**.
 
@@ -235,7 +235,7 @@ If you're looking for **professional website design services India** or need hel
 
 ---
 
-*Rohit Saini is a **senior front end developer India** specializing in **modern website design services** and **SEO friendly website development**. With years of experience as a **professional web developer for hire**, he helps businesses create powerful online presences through **custom website development India** and **responsive web design services**.*
+*Online Digital Web is a **senior front end developer India** specializing in **modern website design services** and **SEO friendly website development**. With years of experience as a **professional web developer for hire**, he helps businesses create powerful online presences through **custom website development India** and **responsive web design services**.*
 
 **Related Topics:**
 - Frontend Development Best Practices

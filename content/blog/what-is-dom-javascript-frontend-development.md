@@ -18,7 +18,7 @@ Keywords:
 
 ---
 
-*By Rohit Saini - Senior Front End Developer India*
+*By Online Digital Web - Senior Front End Developer India*
 
 As a **senior front end developer in India**, I've seen countless developers struggle with DOM concepts early in their careers. The Document Object Model (DOM) is the backbone of modern web development, yet many developers don't fully understand its power and importance. In this comprehensive guide, I'll break down everything you need to know about DOM and why it's essential for **professional website development**.
 

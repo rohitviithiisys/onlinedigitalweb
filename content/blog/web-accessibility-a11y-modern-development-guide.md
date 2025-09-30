@@ -19,7 +19,7 @@ Keywords:
 ---
 
 
-*Published by [Rohit Saini](https://rohitsaini.co.in) - Professional Website Designer India*
+*Published by [Online Digital Web](https://rohitsaini.co.in) - Professional Website Designer India*
 
 ---
 
@@ -409,7 +409,7 @@ Remember, accessibility is an **ongoing process**, not a one-time fix. By making
 
 ---
 
-**Ready to make your website accessible?** Contact [Rohit Saini](https://rohitsaini.co.in) for professional website design services in India that prioritize accessibility and inclusive design.
+**Ready to make your website accessible?** Contact [Online Digital Web](https://rohitsaini.co.in) for professional website design services in India that prioritize accessibility and inclusive design.
 
 **Keywords:** Web accessibility a11y, Professional website design services India, Inclusive web design, WCAG guidelines implementation, Accessible web development, UI UX accessibility design, Web accessibility best practices, Inclusive design principles, ADA compliant websites, Accessibility in web development
 
