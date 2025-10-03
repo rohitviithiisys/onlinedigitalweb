@@ -574,7 +574,8 @@ p {
 }
 
 .header__bottom_navbar .dropdown__container_menu li a {
-    padding: 0px 0
+    padding: 3px 9px;
+    border-radius: 6px;
 }
 
 @media(max-width: 1200px) {
